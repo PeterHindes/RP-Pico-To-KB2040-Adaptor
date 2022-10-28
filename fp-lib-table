@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "keebio-components-master")(type "KiCad")(uri "C:/Users/peter/Documents/RP Pico To KB2040 Adaptor/libs/Keebio-Parts.pretty-master/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/peter/Documents/RP Pico To KB2040 Adaptor/libs/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)
